@@ -31,8 +31,8 @@ public class DemoStudent {
 			public static void main(String[] args) {
 		       
 				DemoStudent obj=new DemoStudent();
-				obj.setSid(101);
-				obj.setSname("fhgf");
+				obj.setSid(764);
+				obj.setSname("Shiva");
 				System.out.println(obj.getSid());
 				System.out.println(obj.getSname());
 				
